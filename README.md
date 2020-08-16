@@ -5,4 +5,4 @@ When prompted you can choose the length of your password and which characters yo
 
 https://billy4c.github.io/passwordGenerator/
 
-![passwordGenerator](passwordGenerator.png)
+![passwordGenerator](Assets/passwordGenerator.png)

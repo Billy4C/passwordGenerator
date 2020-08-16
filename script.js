@@ -4,7 +4,7 @@ var lowerCaseArray=["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", 
 var upperCaseArray=['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'];
 
 function chooseCriteria() {
-  var passwordLength=parseInt(window.prompt ("Choose password length between 8 and 128 characters?"))
+  var passwordLength=parseInt(window.prompt ("Choose your password LENGTH: \nbetween 8 and 128 characters?"))
   console.log(passwordLength)
 
   if (passwordLength < 8 || passwordLength > 128) {
